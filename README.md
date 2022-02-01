@@ -8,7 +8,7 @@
 ✨ Even though my famililarity is with the Front-End, I am open and interested in learning the Back-End as well.
 
 
-📍  Born in Vietnam 🇻🇳, currently settle down in Finland 🇫🇮.
+📍   Born in Vietnam, currently settle down in Finland.
 
 🎓 Bachelor Degree in Energy and Environmental Engineering from Tampere University.
 
