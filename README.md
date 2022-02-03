@@ -25,6 +25,7 @@
 ![TYPESCRIPT](https://img.icons8.com/color/64/000000/typescript.png)
 ![GIT](https://img.icons8.com/color/64/000000/git.png)
 ![NPM](https://img.icons8.com/color/64/000000/npm.png)
+![RESTAPI](https://img.icons8.com/color/64/000000/api-settings.png)
 
 ## Contact
 You can reach out to me via:
