@@ -26,7 +26,7 @@
 ![GIT](https://img.icons8.com/color/64/000000/git.png)
 ![NPM](https://img.icons8.com/color/64/000000/npm.png)
 ![RESTAPI](https://img.icons8.com/color/64/000000/api-settings.png)
-![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
+![BOOTSTRAP](https://img.icons8.com/color/64/000000/bootstrap.png)
 
 ## Contact
 You can reach me through:
