@@ -27,6 +27,7 @@
 ![NPM](https://img.icons8.com/color/64/000000/npm.png)
 ![RESTAPI](https://img.icons8.com/color/64/000000/api-settings.png)
 ![BOOTSTRAP](https://img.icons8.com/color/64/000000/bootstrap.png)
+![FIREBASE](https://img.icons8.com/color/64/000000/firebase.png)
 
 ## Contact
 You can reach me through:
