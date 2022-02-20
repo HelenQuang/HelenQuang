@@ -1,7 +1,7 @@
 # My fullname is Ha Quang but you can also call me Helen! :smile:
 
 ## Overview
-🌱 I am a Self-Taught Front-End Developer/Freelancer who enjoys creating responsive and interactive websites and applications. 
+🌱 I am a Front-End Developer/Freelancer who enjoys creating responsive and interactive websites and applications. 
 
 🔎 Always seeking to learn new skills to improve the user experience and develope well-tested and maintainable code. 
 
