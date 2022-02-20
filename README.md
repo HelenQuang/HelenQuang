@@ -8,7 +8,7 @@
 ✨ Even though my famililarity is with the Front-End, I am open and interested in learning the Back-End as well.
 
 
-📍   Born in Vietnam, currently settle down in Finland.
+📍   Born and raised in Vietnam, currently based in Finland.
 
 🎓 Bachelor Degree in Energy and Environmental Engineering from Tampere University.
 
@@ -30,7 +30,7 @@
 ![FIREBASE](https://img.icons8.com/color/64/000000/firebase.png)
 
 ## Contact
-You can reach me through:
+Fell free to reach me through:
 
 - ![GMAIL](https://img.icons8.com/color/17/000000/gmail-new.png) qvha.97@gmail.com
 
