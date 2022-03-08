@@ -19,13 +19,13 @@
 ## Skills
 ![HTML5](https://img.icons8.com/color/64/000000/html-5--v1.png) 
 ![CSS](https://img.icons8.com/color/64/000000/css3.png)
-![SASS](https://img.icons8.com/color/64/000000/sass.png)
 ![JAVASCRIPT](https://img.icons8.com/color/64/000000/javascript--v1.png)
 ![REACTJS](https://img.icons8.com/color/64/000000/react-native.png)
 ![TYPESCRIPT](https://img.icons8.com/color/64/000000/typescript.png)
 ![GIT](https://img.icons8.com/color/64/000000/git.png)
 ![NPM](https://img.icons8.com/color/64/000000/npm.png)
 ![RESTAPI](https://img.icons8.com/color/64/000000/api-settings.png)
+![SASS](https://img.icons8.com/color/64/000000/sass.png)
 ![BOOTSTRAP](https://img.icons8.com/color/64/000000/bootstrap.png)
 ![FIREBASE](https://img.icons8.com/color/64/000000/firebase.png)
 
