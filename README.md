@@ -27,6 +27,7 @@
 ![RESTAPI](https://img.icons8.com/color/64/000000/api-settings.png)
 ![REDUX](https://img.icons8.com/color/64/000000/redux.png)
 ![FIREBASE](https://img.icons8.com/color/64/000000/firebase.png)
+![NODEJS](https://img.icons8.com/color/64/000000/nodejs.png)
 ![BOOTSTRAP](https://img.icons8.com/color/64/000000/bootstrap.png)
 ![SASS](https://img.icons8.com/color/64/000000/sass.png)
 
