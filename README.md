@@ -15,6 +15,7 @@
 🤝 I’m looking to collaborate on junior projects and challenges.
 
 💬 "Practice does not make perfect! Practice, practice, practice makes improvement" 
+
 💬 "Travailler comme une fourmi"
 
 
