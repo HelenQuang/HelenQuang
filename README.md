@@ -32,6 +32,7 @@
 ![REDUX](https://img.icons8.com/color/64/000000/redux.png)
 ![FIREBASE](https://img.icons8.com/color/64/000000/firebase.png)
 ![NODEJS](https://img.icons8.com/color/64/000000/nodejs.png)
+![MONGODB](https://img.icons8.com/color/64/000000/mongodb.png)
 ![BOOTSTRAP](https://img.icons8.com/color/64/000000/bootstrap.png)
 ![SASS](https://img.icons8.com/color/64/000000/sass.png)
 ![REACT ROUTER](https://user-images.githubusercontent.com/94285120/162486427-b8d64be3-bcc2-4886-8d68-7a7ee5d62ab7.png)
