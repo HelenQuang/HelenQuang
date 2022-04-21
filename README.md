@@ -28,8 +28,10 @@
 ![TYPESCRIPT](https://img.icons8.com/color/64/000000/typescript.png)
 ![GIT](https://img.icons8.com/color/64/000000/git.png)
 ![NPM](https://img.icons8.com/color/64/000000/npm.png)
+
 ![RESTAPI](https://img.icons8.com/color/64/000000/api-settings.png)
 ![REDUX](https://img.icons8.com/color/64/000000/redux.png)
+![TESTING LIBRARY](https://testing-library.com/img/octopus-64x64.png)
 ![FIREBASE](https://img.icons8.com/color/64/000000/firebase.png)
 ![NODEJS](https://img.icons8.com/color/64/000000/nodejs.png)
 ![MONGODB](https://img.icons8.com/color/64/000000/mongodb.png)
@@ -37,6 +39,7 @@
 ![SASS](https://img.icons8.com/color/64/000000/sass.png)
 ![REACT ROUTER](https://user-images.githubusercontent.com/94285120/162486427-b8d64be3-bcc2-4886-8d68-7a7ee5d62ab7.png)
 ![NEXTJS](https://user-images.githubusercontent.com/94285120/162808600-f05fc755-e7a8-44cf-8312-09f7be1cbdae.png)
+
 
 
 ## Contact
