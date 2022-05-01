@@ -69,8 +69,14 @@
 
 ---
 
-## Fell free to reach me through:
+## :mailbox_with_mail: Fell free to reach me through:
 
-- [![GMAIL](https://img.shields.io/badge/GMail-rainbow?logo=gmail&logoColor=white)](qvha.97@gmail.com)
-
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ha-quang-helen-936651186)
+<div id="badges">
+  <a href="www.linkedin.com/in/ha-quang-helen-936651186">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="qvha.97@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
