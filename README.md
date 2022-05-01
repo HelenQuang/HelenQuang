@@ -71,12 +71,16 @@
 
 ## :mailbox_with_mail: Fell free to reach me through:
 
-<div id="badges">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> ("https://www.linkedin.com/in/ha-quang-helen-936651186/")
+
+<img src="https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> ("qvha.97@gmail.com")
+
+<!-- <div id="badges">
   <a href="www.linkedin.com/in/ha-quang-helen-936651186">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+
   <a href="qvha.97@gmail.com">
     <img src="https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
+</div> -->
