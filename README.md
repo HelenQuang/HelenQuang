@@ -71,21 +71,5 @@
 
 ## :mailbox_with_mail: Fell free to reach me through:
 
-<!-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> ("https://www.linkedin.com/in/ha-quang-helen-936651186/")
-
-<img src="https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> ("qvha.97@gmail.com") -->
-
-<div id="badges">
-  <!-- <a href="www.linkedin.com/in/ha-quang-helen-936651186">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <!-- <a href="qvha.97@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a> --> -->
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ha-quang-helen-936651186)
-
-[<img alt="LinkedIn Badge"  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ha-quang-helen-936651186)
-
-</div>
+[![Gmail Badge](https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white")](qvha.97@gmail.com)
