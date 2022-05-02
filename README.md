@@ -72,4 +72,4 @@
 ## :mailbox_with_mail: Fell free to reach me through:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ha-quang-helen-936651186)
-[![Gmail Badge](https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white")](qvha.97@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white")](qvha.97@gmail.com)
