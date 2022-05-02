@@ -86,4 +86,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ha-quang-helen-936651186)
 
+[<img alt="LinkedIn Badge"  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ha-quang-helen-936651186)
+
 </div>
