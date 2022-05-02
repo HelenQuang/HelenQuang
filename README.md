@@ -76,11 +76,14 @@
 <img src="https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> ("qvha.97@gmail.com") -->
 
 <div id="badges">
-  <a href="www.linkedin.com/in/ha-quang-helen-936651186">
+  <!-- <a href="www.linkedin.com/in/ha-quang-helen-936651186">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="qvha.97@gmail.com">
+  <!-- <a href="qvha.97@gmail.com">
     <img src="https://img.shields.io/badge/GMail-rainbow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  </a> --> -->
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ha-quang-helen-936651186)
+
 </div>
