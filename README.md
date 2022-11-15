@@ -8,11 +8,9 @@
 
 ## :woman_technologist: About Me
 
-🌱 I am a Front-End Developer/Freelancer who enjoys creating responsive and interactive websites and applications.
+🌱 I am a Junior Full-stack Developer who enjoys creating responsive and interactive websites and applications.
 
 🔎 Always seeking to learn new skills to improve the user experience and develope well-tested and maintainable code.
-
-✨ Even though my famililarity is with the Front-End, I am open and interested in learning the Back-End as well.
 
 📍 Born and raised in Vietnam, currently based in Finland.
 
