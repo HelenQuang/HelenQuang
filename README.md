@@ -69,8 +69,5 @@
 
 ---
 
-## :mailbox_with_mail: Fell free to reach me through:
 
-<a href="www.linkedin.com/in/ha-quang-helen"><img alt="LinkedIn badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="mailto:qvha.97@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
