@@ -16,7 +16,9 @@
 
 🎓 Master Degree in Information Technology, Full-stack Development from Jyväskylä University of Applied Sciences.
 
-🎓 Bachelor Degree in Energy and Environmental Engineering from Tampere University.
+🎓 Bachelor Degree in Energy and Environmental Engineering from Tampere University of Applied Sciences.
+
+🖥️ Current learning: AWS Cloud Services, DevOps, CI/CD, MySQL.
 
 🤝 I’m looking to collaborate on junior projects and challenges.
 
